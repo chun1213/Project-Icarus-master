@@ -300,9 +300,9 @@ public class main extends PApplet {
     // identical use to draw in Processing IDE
     @Override
     public void draw(){
-    	if (CurrentTrack==null) {
+    	if (CurrentTrack==null || !CurrentTrack.isPlaying() ) {
 	    CurrentTrack=Soundtracks[(int) random(0,Soundtracks.length)];
-	    theme1.play();
+	    CurrentTrack.play();
 	    System.out.println(CurrentTrack);
     	}
     	if (game==0) {
