@@ -12,4 +12,4 @@ infinite health: press "p" no caps while in the game
 
 If you wish to see the bosses, please get to 2000 points and 10000 points and then defeat all the enemies. 
 
-Disclaimer: I do not claim ownership of the music or the sprites used
+Disclaimer: I do not claim ownership of the music or the sprites used or the libraries packed in here
