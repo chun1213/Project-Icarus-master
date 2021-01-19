@@ -1,5 +1,5 @@
 # Project-Icarus-master
- A quick game I made in processing in eclipse, Am currently updating the readme with more info
+ A quick game I made with the processing library in eclipse,
 Heres the JAR File for the game: https://drive.google.com/file/d/1zL_eT-qvrXpXBQNvVVWBvXP6KU_p_V4A/view?usp=sharing
 If you have trouble running it by double click, it is probably a java out of memory error, 
 Try running the game using command line by typeing:"java -Xmx1300M -jar game.jar" when navagated to the folder the jar file is located.
