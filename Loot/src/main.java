@@ -305,10 +305,6 @@ public class main extends PApplet {
 	    theme1.play();
 	    System.out.println(CurrentTrack);
     	}
-    	if (!CurrentTrack.isPlaying()) {
-    		CurrentTrack=Soundtracks[(int) random(0,Soundtracks.length)];
-    		CurrentTrack.play();
-    	}
     	if (game==0) {
     		textSize(20);
     		strokeWeight(1);
