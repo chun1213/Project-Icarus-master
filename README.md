@@ -6,8 +6,9 @@
 
 <h2>Disclaimer</h2>
 I do not claim ownership of the music or the sprites used or the libraries packed in here
-The Devourer of God sprite used is from the Calamity mod for Terraria found [here](https://forums.terraria.org/index.php?threads/calamity-mod.44065/)
-The Music used in this game is also from the Calamity mod, the artist's youtube channel is [here](https://www.youtube.com/user/SUPEREMERALD123) 
+
+The Devourer of God sprite used is from the Calamity mod for Terraria found [here](https://forums.terraria.org/index.php?threads/calamity-mod.44065/)  
+The Music used in this game is also from the Calamity mod, the artist's youtube channel is [here](https://www.youtube.com/user/SUPEREMERALD123)  
 The rest of the weapon textures and backgrounds as well as Icarus boss sprite were found online and I do not own.
 
 <h2> Installation: </h2>
