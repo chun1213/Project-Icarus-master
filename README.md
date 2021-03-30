@@ -12,11 +12,15 @@ The Music used in this game is also from the Calamity mod, the artist's youtube 
 The rest of the weapon textures and backgrounds as well as Icarus boss sprite were found online and I do not own.
 
 <h2> Installation: </h2>
+<b> You need to have Java Installed to play this game</b>
+
 Heres the JAR File for the game: https://drive.google.com/file/d/1zL_eT-qvrXpXBQNvVVWBvXP6KU_p_V4A/view?usp=sharing
 If you have trouble running it by double click, it is probably a java out of memory error, 
 Try running the game using command line by typeing:"java -Xmx1300M -jar game.jar" when navagated to the folder the jar file is located.
 This will increase the Heap size of the Java VM
  
+<h2> Tech Used: </h2>
+The game runs mainly using the processing graphics engine in Java, I coded the game using Eclipse.
 
 <h2> Cheats: </h2>
 Most of the Commands are in the game's control section but here are some debug commands:
