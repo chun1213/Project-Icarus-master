@@ -20,10 +20,10 @@ This will increase the Heap size of the Java VM
 
 <h2> Cheats: </h2>
 Most of the Commands are in the game's control section but here are some debug commands:
-infinite money: press "p" no caps in the inventory menu
-infinite health: press "p" no caps while in the game
 
+infinite money: press "p" no caps in the inventory menu 
 
+infinite health: press "p" no caps while in the game 
 
 <h1>Gameplay:</h1>
 
