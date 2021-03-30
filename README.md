@@ -25,8 +25,6 @@ infinite money: press "p" no caps in the inventory menu
 
 infinite health: press "p" no caps while in the game 
 
-<h1>Gameplay:</h1>
-
 <h2>Inventory:</h2>
 My main focus in the making of this game was to create an inventory system inside the game where you can obtain and equip different weapons, In the end, there was over 30 total weapons + equipment implemented, each having a unique stat and or passive/active ability as well as description.
 <p align="center">
